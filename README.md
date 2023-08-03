@@ -1,9 +1,8 @@
-# react-bootstrap-bmi-calculator
+![healthy](https://github.com/nimeshaPriyangi/react-bootstrap-bmi-calculator/assets/5120389/dd44720c-1df6-4685-97ff-54a63fba9cdc)# react-bootstrap-bmi-calculator
 This is a simple BMI (Body Mass Index) Calculator built using React.js and Bootstrap
 
 # React.js BMI Calculator
-
-![BMI Calculator](bmi_calculator_screenshot.png)
+![Screenshot 2023-08-03 192837](https://github.com/nimeshaPriyangi/react-bootstrap-bmi-calculator/assets/5120389/3bf7bfd5-317a-42a3-986c-579bb3b00cdb)
 
 This is a simple BMI (Body Mass Index) Calculator built using React.js. The BMI Calculator allows users to calculate their BMI based on their weight and height. BMI is a widely used method to estimate body fat and determine if a person is underweight, normal weight, overweight, or obese.
 
