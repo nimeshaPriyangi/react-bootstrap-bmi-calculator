@@ -1,5 +1,3 @@
-![healthy](https://github.com/nimeshaPriyangi/react-bootstrap-bmi-calculator/assets/5120389/dd44720c-1df6-4685-97ff-54a63fba9cdc)# react-bootstrap-bmi-calculator
-This is a simple BMI (Body Mass Index) Calculator built using React.js and Bootstrap
 
 # React.js BMI Calculator
 ![Screenshot 2023-08-03 192837](https://github.com/nimeshaPriyangi/react-bootstrap-bmi-calculator/assets/5120389/3bf7bfd5-317a-42a3-986c-579bb3b00cdb)
